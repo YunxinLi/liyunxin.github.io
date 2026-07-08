@@ -9,10 +9,10 @@ redirect_from:
 
 ## 😎 About Me (李云鑫)
 
-I am a Tenure-Track Associate Professor at Harbin Institute of Technology, Shenzhen. I earned PhD from the Harbin Institute of Technology, Shenzhen, advised by Prof. [Baotian Hu](https://homepage.hit.edu.cn/hubaotian), Prof. [Yuxin Ding](https://homepage.hit.edu.cn/dingyuxin), and Prof. [Min Zhang](https://homepage.hit.edu.cn/MinZhang). I obtained a Master of Engineering degree from Harbin Institute of Technology, Shenzhen and a Bachelor of Science degree from Harbin Institute of Technology. Long-term cooperation with Dr. [Lin Ma](https://forestlinma.com/), Meituan; Prof. [Wenhan Luo](https://whluo.github.io/), HKUST; Dr. [Longyue Wang](https://www.longyuewang.com/), Alibaba International Group; Dr. [Yuxiang Wu](https://www.yuxiangwu.com/), Weco AI. 
+I am an Associate Professor at Harbin Institute of Technology, Shenzhen. I earned a PhD from the Harbin Institute of Technology, Shenzhen, advised by Prof. [Baotian Hu](https://homepage.hit.edu.cn/hubaotian), Prof. [Yuxin Ding](https://homepage.hit.edu.cn/dingyuxin), and Prof. [Min Zhang](https://homepage.hit.edu.cn/MinZhang). I obtained a Master of Engineering degree from Harbin Institute of Technology, Shenzhen and a Bachelor of Science degree from Harbin Institute of Technology. Long-term cooperation with Dr. [Lin Ma](https://forestlinma.com/), Meituan; Prof. [Wenhan Luo](https://whluo.github.io/), HKUST; Dr. [Longyue Wang](https://www.longyuewang.com/), Alibaba International Group; Dr. [Yuxiang Wu](https://www.yuxiangwu.com/), Weco AI. 
 
 The long-term goal of my research is to help humans with more capable artificial intelligence. Dream of building an intelligent metaverse and interesting research directions, including:
-- Multimodal Reasoning and Planning
+- Omnimodal Reasoning and Planning
 - Omnimodal Large Model
 - Omnimodal Tool Use
 - Omnimodal Agent
